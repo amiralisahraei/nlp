@@ -3,6 +3,7 @@ Here I am sharing a NLP project regarding text classification on IMDB dataset. A
 - Without Embedding layer (apply Glove for embedding)
 - With Embedding layer
 
+In addiotion, I've developed this project in both Keras and Pytorch versions. But the Pytorch version has no Embedding layer (only Glove is used).
 
 
 
@@ -14,5 +15,4 @@ Install the necessary libraries
   pip install -r requirements.txt
 ```
 
-Thanks to [Mohammad Taghizadeh](https://github.com/M-Taghizadeh) 
-
+Thanks to [Mohammad Taghizadeh](https://github.com/M-Taghizadeh) regarding Keras version
